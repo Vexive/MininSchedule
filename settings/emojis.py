@@ -1,0 +1,22 @@
+EMOJIS = {
+    'wave': '👋',
+    'info': 'ℹ',
+    'new': '🆕',
+    'delete': '❌',
+    'edit': '✏️',
+    'calendar': '📅',
+    'help': '❓',
+    'task': '📝',
+    'description': '📋',
+    'time': '🕒',
+    'alarm': '⏰',
+    'check': '✅',
+    'error': '❌',
+    'low_priority': '🟢',
+    'medium_priority': '🟡',
+    'high_priority': '🔴',
+    'done': '✔',
+    'grey': '⚪',
+    'start': '🚀',
+    'start': '➕'
+}
