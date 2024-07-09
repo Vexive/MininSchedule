@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="2dcd491d-28b9-477b-a9f5-20a8d45469b9" name="VexBot Mapping">
+      <data-sources db="401f9931-5af3-4538-aa20-021a92a04369" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+</project>
